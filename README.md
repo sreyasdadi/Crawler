@@ -1,3 +1,3 @@
 # Crawler
 # usage
-python crawler.py <downloaddirectory> <temp_working_directory>
+python crawler.py <download_directory> <temp_working_directory>
